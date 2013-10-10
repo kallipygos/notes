@@ -1,0 +1,116 @@
+\documentclass[]{article}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+    \usepackage{xltxtra,xunicode}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+% use microtype if available
+\IfFileExists{microtype.sty}{\usepackage{microtype}}{}
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={Linus Eklund},
+            pdftitle={Liemannen Kjell Gustafsson  på Bergianska},
+            colorlinks=true,
+            citecolor=blue,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\setcounter{secnumdepth}{0}
+
+\title{Liemannen Kjell Gustafsson\\ på Bergianska}
+\author{Linus Eklund}
+\date{7 aug 2013}
+
+\begin{document}
+\maketitle
+
+Kalläsning av mig: maraton, ingenjör
+
+• lövtäktskniv • stuttlie -- kortlie
+
+Uträtning: kallsmide, arbeta ut bulan längs hela bladet.
+
+• Infästning -- bladets förlängning orvets slut, ritsa i låret inför
+jordläggning. Vill inte böja för nära bladet.
+
+• Jordläggning -- lillfinger emellan.
+
+• Häng blöt trösa för att skydda bladhärdning om värmer låret med låga.
+
+\section{Slipning}\label{slipning}
+
+Lamellskiva i vinkelslip, far fram oroligt överallt, undviker
+blåanlöpning, härdning försvinner, aldrig vasst igen, doppa vatten.
+Eller sliprondell, borrmaskin, ARTI.
+
+Råegg bortdras med ren trästicka, skär i den, inte vispa.
+
+\subsection{Slipsten}\label{slipsten}
+
+Renovera slipsten med diamantskiva i vinkelkap på lastpallar, 20 min,
+spårig. Spricker om frost.
+
+Vattentriangel, svischande ljud, inget skrap, kan slipa ned rygg på
+liebladet om eggvinkeln så kräver, 7 mm översida, 5-6 undersida.
+
+\section{Hantering}\label{hantering}
+
+Skyldra lie, bladet framåt, väl över ögonhöjd. Stillastående orv i mark,
+blad uppåt, spets framåt.
+
+Slåtterställning -- höger fot fram, glidsteg, svep i första kvadranten,
+släpa udden på återgång för att känna efter sten och rot, hela bladet i
+på framgång,
+
+• Vispa -- Ek, bok, ask
+
+\begin{verbatim}
+Vacker flicka,//
+Vispesticka//
+Fuler pojk
+\end{verbatim}
+
+• Bryna Lägg ned, spetsen vilar på markluggande vispesticka. Knästående,
+vått bryne, mot eggen. Först ena sidan, sedan andra, tills rasp blir
+svisch. Drag av råegg mot sticka.
+
+• Efterbete -- luckrar jorden, förintar sorkhögar och myrstackar.
+
+• Slåtter Sved bort förnan på senvintern. Vattna rutor om tio meter. Slå
+sedan sent i juli. Trimmersnöre piskar bort blomblad, röjskiva går.
+Häsja efter tre dagar. Häsja lågläntast, näring flyter ut och förhindrar
+utarmning. Elda sedan höet. Armningen sänker strålängden vilket ger ljus
+åt korta ängsblommor, vilkas frön ligger dormanta överallt till
+förhållanden rätt.
+
+• Räfsa Svängd för att ihopsamla och lutad för att inte hugga sig fast
+utan ligga dikt an från stående vinkel. Tänder av en, hagtorn och andra
+trädslag efter regionala preferenser. Torka pluggarna innan islag. Skär
+skåra i änden och säkra med kil från andra hållet.
+
+\end{document}
